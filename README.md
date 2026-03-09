@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm a self-taught AI engineer from India focused on building intelligent, autonomous systems. My work sits at the intersection of LLM engineering, RAG pipelines, and agentic AI — with a long-term direction toward computer vision and robotics.<br><br>Currently in a deep learning-and-building phase: I don't just study concepts, I ship them.
+I'm a self-taught AI engineer focused on building AI systems using LLMs, RAG pipelines, and AI agents.
+Currently, I'm working with tools and frameworks like n8n and other AI development frameworks to build and experiment with real projects.
+I believe in learning by building, so I focus on creating real systems instead of only studying theory.
+My long-term goal is to build intelligent autonomous systems by combining AI, computer vision, and robotics.
 
 
 ## 🌐 Socials:
