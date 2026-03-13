@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a self-taught AI engineer building projects with LLMs, RAG systems, and AI agents.<br>
+I'm a AI engineer building projects with LLMs, RAG systems, and AI agents.<br>
 Long-term goal: building intelligent autonomous systems.
 
 
