@@ -1,13 +1,12 @@
 # 💫 About Me
 
-AI/ML Engineer focused on **multi-agent systems** and **agentic AI pipelines**.  
-Building autonomous agents that plan, act, and collaborate — not just respond.
+Just an engineer who's really into building AI that actually does stuff on its own.
+I like working on systems where agents plan, decide, and work together — not just spit out answers.
 
-- 🤖 Currently building with **CrewAI**, **Agno**, **Microsoft Agent Framework**
-- ☁️ Deploying on **Azure AI Foundry** | Learning **Google Cloud**
-- 🎯 Long-term goal: autonomous intelligent systems (Data/AI → Computer Vision → Robotics)
-- 📍 Based in Bangalore, India
-
+- 🤖 Right now I'm deep into **CrewAI**, **Agno**, **Microsoft Agent Framework**
+- ☁️ I deploy stuff on **Azure AI Foundry** and messing around with **Google Cloud**
+- 🎯 Dream is to build fully autonomous systems — starting with AI, then vision, eventually robotics
+- 📍 I'm from Bangalore, India
 ---
 
 ## 🌐 Socials
