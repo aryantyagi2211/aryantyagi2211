@@ -12,19 +12,25 @@
   <a href="https://huggingface.co/aryantyagiase"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
   <a href="https://www.kaggle.com/aryantyagiase"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
   <a href="https://www.credly.com/users/aryan-tyagi-ase/badges/credly"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" /></a>
+  <a href="https://reddit.com/u/aryan_tyagi_ase"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
   <a href="mailto:aryantyagi9651@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🧭 About Me
+### About Me
 
-- 🔭 Currently building multi-agent and voice-driven AI systems with **CrewAI**, **Agno**, **Pipecat**, and **Microsoft Agent Framework**
-- 🧠 Strong foundation in **Machine Learning**, **Deep Learning**, **CNNs**, and **LLMs**
-- ☁️ Deploying on **Azure AI Foundry**, exploring **Google Cloud**
-- 🎯 Long-term goal: fully autonomous intelligent systems — **AI → Computer Vision → Robotics**
-- 🏆 Hackathon-first builder — competing across MLH, Devfolio, Devpost, and Unstop for real-world agentic AI projects
-- 📍 Based in Bangalore, India
+<img width="16" valign="middle" src="https://api.iconify.design/tabler/robot.svg?color=%2358a6ff" /> Currently building multi-agent and voice-driven AI systems with **CrewAI**, **Agno**, **Pipecat**, and **Microsoft Agent Framework**
+
+<img width="16" valign="middle" src="https://api.iconify.design/tabler/brain.svg?color=%2358a6ff" /> Strong foundation in **Machine Learning**, **Deep Learning**, **CNNs**, and **LLMs**
+
+<img width="16" valign="middle" src="https://api.iconify.design/tabler/cloud.svg?color=%2358a6ff" /> Deploying on **Azure AI Foundry**, exploring **Google Cloud**
+
+<img width="16" valign="middle" src="https://api.iconify.design/tabler/telescope.svg?color=%2358a6ff" /> Long-term goal: fully autonomous intelligent systems — **AI → Computer Vision → Robotics**
+
+<img width="16" valign="middle" src="https://api.iconify.design/tabler/trophy.svg?color=%2358a6ff" /> Hackathon-first builder — competing across MLH, Devfolio, Devpost, and Unstop for real-world agentic AI projects
+
+<img width="16" valign="middle" src="https://api.iconify.design/tabler/map-pin.svg?color=%2358a6ff" /> Based in Bangalore, India
 
 ---
 
