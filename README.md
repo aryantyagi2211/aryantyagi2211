@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Aryan Tyagi 👋</h1>
+<h1 align="center">Hi, I'm Aryan Tyagi </h1>
 
 <h3 align="center">AI Engineer building autonomous, agent-based systems</h3>
 
@@ -34,7 +34,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Core**
 
@@ -75,7 +75,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <table>
   <tr>
@@ -89,7 +89,7 @@
 
 ---
 
-### 📚 Featured Learning Journey
+### Featured Learning Journey
 
 <table>
   <tr>
@@ -105,22 +105,3 @@
     </td>
   </tr>
 </table>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aryantyagi2211&theme=github_dark" />
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aryantyagi2211&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img height="200" src="https://streak-stats.demolab.com/?user=aryantyagi2211&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=aryantyagi2211&icon=0&color=0" />
-</p>
