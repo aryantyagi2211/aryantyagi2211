@@ -79,27 +79,29 @@
 
 <table>
   <tr>
-    <td width="50%">
-      <h4>🎓 <a href="https://github.com/aryantyagi2211/studymate-ai">StudyMate AI</a></h4>
+    <td width="100%">
+      <h4>🎓 <a href="https://github.com/aryantyagi2211/StudyMate-AI">StudyMate AI</a></h4>
       <p>8-agent sequential pipeline for Azure certification prep, built for the Microsoft Agents League Hackathon (Reasoning Agents track).</p>
       <p><code>Python</code> <code>Microsoft Agent Framework</code> <code>CrewAI</code> <code>Agno</code> <code>Azure OpenAI</code> <code>Gradio</code> <code>React</code></p>
     </td>
-    <td width="50%">
-      <h4>🎙️ VoiceFlow AI</h4>
-      <p>Voice AI system built for the NVIDIA × Gnani.ai hackathon — real-time speech-to-intent-to-speech pipeline with retrieval-augmented responses.</p>
-      <p><code>Agno</code> <code>NVIDIA NeMo ASR</code> <code>LLaMA-3.1</code> <code>RAG</code> <code>ElevenLabs TTS</code></p>
-    </td>
   </tr>
+</table>
+
+---
+
+### 📚 Featured Learning Journey
+
+<table>
   <tr>
     <td width="50%">
-      <h4>📹 CCTV-Based Human Detection</h4>
-      <p>Applied computer vision project using CNN architectures for surveillance and object detection, with YOLO as the detection backbone.</p>
-      <p><code>Python</code> <code>YOLO</code> <code>CNN</code> <code>OpenCV</code></p>
+      <h4>🧠 <a href="https://github.com/aryantyagi2211/DeepLearning_Journey">DeepLearning_Journey</a></h4>
+      <p>Self-taught Deep Learning documented from the ground up — theory, hand-worked math, code, and practice questions for every concept.</p>
+      <p><code>nlp</code> <code>deep-learning</code> <code>cnn</code> <code>rnn</code> <code>transformer</code> <code>recurrent-neural-networks</code></p>
     </td>
     <td width="50%">
-      <h4>🗣️ Someone</h4>
-      <p>Multilingual voice AI companion built for the Indian market, with a custom safety layer for conversational guardrails.</p>
-      <p><code>Agno</code> <code>Sarvam AI</code> <code>Pipecat</code> <code>LiveKit</code> <code>Qdrant</code></p>
+      <h4>📈 <a href="https://github.com/aryantyagi2211/MachineLearning_Journey">MachineLearning_Journey</a></h4>
+      <p>Self-taught Machine Learning documented the same way — concept, math, code, and practice questions for every topic covered.</p>
+      <p><code>supervised-learning</code> <code>linear-regression</code> <code>random-forest</code> <code>clustering</code> <code>dimensionality-reduction</code></p>
     </td>
   </tr>
 </table>
@@ -109,12 +111,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aryantyagi2211&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=aryantyagi2211&theme=tokyonight&hide_border=true" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aryantyagi2211&theme=github_dark" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aryantyagi2211&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryantyagi2211&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="200" src="https://streak-stats.demolab.com/?user=aryantyagi2211&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
