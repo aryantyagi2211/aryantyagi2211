@@ -1,11 +1,11 @@
 # 💫 About Me
-Just an engineer who's really into building AI that actually does stuff on its own.
-I like working on systems where agents plan, decide, and work together — not just spit out answers.
+AI Engineer focused on building autonomous, agent-based systems — not just single-shot LLM wrappers, but pipelines where agents plan, reason, and execute independently.
 
-- 🤖 Right now I'm deep into **CrewAI**, **Agno**, **Pipecat**, **Microsoft Agent Framework**
-- ☁️ I deploy stuff on **Azure AI Foundry** and messing around with **Google Cloud**
-- 🎯 Dream is to build fully autonomous systems — starting with AI, then vision, eventually robotics
-- 📍 I'm from Bangalore, India
+- 🤖 Working with **CrewAI**, **Pipecat**, and **Microsoft Agent Framework** to build multi-agent and voice-driven AI systems
+- 🧠 Strong foundation in **Machine Learning**, **Deep Learning**, **CNNs**, and **LLMs**
+- ☁️ Deploying on **Azure AI Foundry**, exploring **Google Cloud**
+- 🎯 Long-term goal: fully autonomous intelligent systems — AI → Computer Vision → Robotics
+- 📍 Based in Bangalore, India
 
 ---
 
@@ -24,6 +24,10 @@ I like working on systems where agents plan, decide, and work together — not j
 **Current**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-013243?style=for-the-badge&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-8A2BE2?style=for-the-badge&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-10A37F?style=for-the-badge&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -34,14 +38,8 @@ I like working on systems where agents plan, decide, and work together — not j
 **Agentic AI**
 
 ![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logoColor=white)
-![Agno](https://img.shields.io/badge/Agno-6C47FF?style=for-the-badge&logoColor=white)
 ![Pipecat](https://img.shields.io/badge/Pipecat-FF6154?style=for-the-badge&logoColor=white)
 ![Microsoft Agent Framework](https://img.shields.io/badge/Microsoft%20Agent%20Framework-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-
-**Voice AI**
-
-![LiveKit](https://img.shields.io/badge/LiveKit-1A1A2E?style=for-the-badge&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logoColor=white)
 
 **Future Stack**
 
@@ -55,7 +53,7 @@ I like working on systems where agents plan, decide, and work together — not j
 
 ### [StudyMate AI](https://github.com/aryantyagi2211/studymate-ai)
 8-agent sequential pipeline for Azure certification prep — built for the **Agents League Hackathon (Microsoft)**.
-`Python` `Microsoft Agent Framework` `CrewAI` `Agno` `Azure OpenAI` `Gradio` `React`
+`Python` `Microsoft Agent Framework` `CrewAI` `Azure OpenAI` `Gradio` `React`
 
 ---
 
