@@ -1,12 +1,13 @@
-# 💫 About Me
+# About Me
+
 AI Engineer focused on building autonomous, agent-based systems — not just single-shot LLM wrappers, but pipelines where agents plan, reason, and execute independently.
 
-- 🤖 Working with **CrewAI**, **Pipecat**, and **Microsoft Agent Framework** to build multi-agent and voice-driven AI systems
-- 🧠 Strong foundation in **Machine Learning**, **Deep Learning**, **CNNs**, and **LLMs**
-- ☁️ Deploying on **Azure AI Foundry**, exploring **Google Cloud**
-- 🎯 Long-term goal: fully autonomous intelligent systems — AI → Computer Vision → Robotics
-- 📍 Based in Bangalore, India
-
+- ▹ Working with **CrewAI**, **Pipecat**, and **Microsoft Agent Framework** to build multi-agent and voice-driven AI systems
+- ▹ Strong foundation in **Machine Learning**, **Deep Learning**, **CNNs**, and **LLMs**
+- ▹ Deploying on **Azure AI Foundry**, exploring **Google Cloud**
+- ▹ Long-term goal: fully autonomous intelligent systems — AI → Computer Vision → Robotics
+- ▹ Based in Bangalore, India
+- 
 ---
 
 ## 🌐 Socials
