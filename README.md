@@ -1,28 +1,36 @@
-# About Me
+<h1 align="center">Hi, I'm Aryan Tyagi 👋</h1>
 
-AI Engineer focused on building autonomous, agent-based systems — not just single-shot LLM wrappers, but pipelines where agents plan, reason, and execute independently.
+<h3 align="center">AI Engineer building autonomous, agent-based systems</h3>
 
-- ▹ Working with **CrewAI**, **Pipecat**, and **Microsoft Agent Framework** to build multi-agent and voice-driven AI systems
-- ▹ Strong foundation in **Machine Learning**, **Deep Learning**, **CNNs**, and **LLMs**
-- ▹ Deploying on **Azure AI Foundry**, exploring **Google Cloud**
-- ▹ Long-term goal: fully autonomous intelligent systems — AI → Computer Vision → Robotics
-- ▹ Based in Bangalore, India
-- 
----
+<p align="center">
+  Not single-shot LLM wrappers — pipelines where agents plan, reason, and execute independently.
+</p>
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-tyagi-b976403a1)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/aryan_tyagi_ase)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/aryantyagiase)
-[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/aryantyagiase)
-[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/aryan-tyagi-ase/badges/credly)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryantyagi9651@gmail.com)
+<p align="center">
+  <a href="https://linkedin.com/in/aryan-tyagi-b976403a1"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/aryan_tyagi_ase"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://huggingface.co/aryantyagiase"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
+  <a href="https://www.kaggle.com/aryantyagiase"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="https://www.credly.com/users/aryan-tyagi-ase/badges/credly"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" /></a>
+  <a href="mailto:aryantyagi9651@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-## 💻 Tech Stack
+### 🧭 About Me
 
-**Current**
+- 🔭 Currently building multi-agent and voice-driven AI systems with **CrewAI**, **Agno**, **Pipecat**, and **Microsoft Agent Framework**
+- 🧠 Strong foundation in **Machine Learning**, **Deep Learning**, **CNNs**, and **LLMs**
+- ☁️ Deploying on **Azure AI Foundry**, exploring **Google Cloud**
+- 🎯 Long-term goal: fully autonomous intelligent systems — **AI → Computer Vision → Robotics**
+- 🏆 Hackathon-first builder — competing across MLH, Devfolio, Devpost, and Unstop for real-world agentic AI projects
+- 📍 Based in Bangalore, India
+
+---
+
+### 🛠️ Tech Stack
+
+**Core**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-013243?style=for-the-badge&logoColor=white)
@@ -34,18 +42,23 @@ AI Engineer focused on building autonomous, agent-based systems — not just sin
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-**Agentic AI**
+**Agentic AI & Voice**
 
 ![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logoColor=white)
+![Agno](https://img.shields.io/badge/Agno-4B32C3?style=for-the-badge&logoColor=white)
 ![Pipecat](https://img.shields.io/badge/Pipecat-FF6154?style=for-the-badge&logoColor=white)
 ![Microsoft Agent Framework](https://img.shields.io/badge/Microsoft%20Agent%20Framework-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+**Cloud & Tools**
+
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 **Future Stack — Robotics**
 
@@ -56,12 +69,50 @@ AI Engineer focused on building autonomous, agent-based systems — not just sin
 
 ---
 
-## 🚀 Featured Project
+### 🚀 Featured Projects
 
-### [StudyMate AI](https://github.com/aryantyagi2211/studymate-ai)
-8-agent sequential pipeline for Azure certification prep — built for the **Agents League Hackathon (Microsoft)**.
-`Python` `Microsoft Agent Framework` `CrewAI` `Agno` `Azure OpenAI` `Gradio` `React`
+<table>
+  <tr>
+    <td width="50%">
+      <h4>🎓 <a href="https://github.com/aryantyagi2211/studymate-ai">StudyMate AI</a></h4>
+      <p>8-agent sequential pipeline for Azure certification prep, built for the Microsoft Agents League Hackathon (Reasoning Agents track).</p>
+      <p><code>Python</code> <code>Microsoft Agent Framework</code> <code>CrewAI</code> <code>Agno</code> <code>Azure OpenAI</code> <code>Gradio</code> <code>React</code></p>
+    </td>
+    <td width="50%">
+      <h4>🎙️ VoiceFlow AI</h4>
+      <p>Voice AI system built for the NVIDIA × Gnani.ai hackathon — real-time speech-to-intent-to-speech pipeline with retrieval-augmented responses.</p>
+      <p><code>Agno</code> <code>NVIDIA NeMo ASR</code> <code>LLaMA-3.1</code> <code>RAG</code> <code>ElevenLabs TTS</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>📹 CCTV-Based Human Detection</h4>
+      <p>Applied computer vision project using CNN architectures for surveillance and object detection, with YOLO as the detection backbone.</p>
+      <p><code>Python</code> <code>YOLO</code> <code>CNN</code> <code>OpenCV</code></p>
+    </td>
+    <td width="50%">
+      <h4>🗣️ Someone</h4>
+      <p>Multilingual voice AI companion built for the Indian market, with a custom safety layer for conversational guardrails.</p>
+      <p><code>Agno</code> <code>Sarvam AI</code> <code>Pipecat</code> <code>LiveKit</code> <code>Qdrant</code></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=aryantyagi2211&icon=0&color=0)](https://visitcount.itsvg.in)
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aryantyagi2211&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=aryantyagi2211&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryantyagi2211&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=aryantyagi2211&icon=0&color=0" />
+</p>
