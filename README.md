@@ -59,7 +59,7 @@
 ![Pipecat](https://img.shields.io/badge/Pipecat-FF6154?style=for-the-badge&logoColor=white)
 ![Microsoft Agent Framework](https://img.shields.io/badge/Microsoft%20Agent%20Framework-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
-**Cloud & Tools**
+**Deployment**
 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
@@ -80,7 +80,7 @@
 <table>
   <tr>
     <td width="100%">
-      <h4>🎓 <a href="https://github.com/aryantyagi2211/StudyMate-AI">StudyMate AI</a></h4>
+      <h4><a href="https://github.com/aryantyagi2211/StudyMate-AI">StudyMate AI</a></h4>
       <p>8-agent sequential pipeline for Azure certification prep, built for the Microsoft Agents League Hackathon (Reasoning Agents track).</p>
       <p><code>Python</code> <code>Microsoft Agent Framework</code> <code>CrewAI</code> <code>Agno</code> <code>Azure OpenAI</code> <code>Gradio</code> <code>React</code></p>
     </td>
@@ -94,12 +94,12 @@
 <table>
   <tr>
     <td width="50%">
-      <h4>🧠 <a href="https://github.com/aryantyagi2211/DeepLearning_Journey">DeepLearning_Journey</a></h4>
+      <h4><a href="https://github.com/aryantyagi2211/DeepLearning_Journey">DeepLearning_Journey</a></h4>
       <p>Self-taught Deep Learning documented from the ground up — theory, hand-worked math, code, and practice questions for every concept.</p>
       <p><code>nlp</code> <code>deep-learning</code> <code>cnn</code> <code>rnn</code> <code>transformer</code> <code>recurrent-neural-networks</code></p>
     </td>
     <td width="50%">
-      <h4>📈 <a href="https://github.com/aryantyagi2211/MachineLearning_Journey">MachineLearning_Journey</a></h4>
+      <h4><a href="https://github.com/aryantyagi2211/MachineLearning_Journey">MachineLearning_Journey</a></h4>
       <p>Self-taught Machine Learning documented the same way — concept, math, code, and practice questions for every topic covered.</p>
       <p><code>supervised-learning</code> <code>linear-regression</code> <code>random-forest</code> <code>clustering</code> <code>dimensionality-reduction</code></p>
     </td>
