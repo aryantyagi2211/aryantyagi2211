@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Aryan Tyagi </h1>
 
-<h3 align="center">AI Engineer building autonomous, agent-based systems</h3>
+<h3 align="center">AI Engineer, building LLMs & Voice agentic ai systems</h3>
 
 <p align="center">
   Not single-shot LLM wrappers — pipelines where agents plan, reason, and execute independently.
