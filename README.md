@@ -21,15 +21,9 @@
 ### About Me
 
 <img width="16" valign="middle" src="https://api.iconify.design/tabler/robot.svg?color=%2358a6ff" /> Currently building multi-agent and voice-driven AI systems with **CrewAI**, **Agno**, **Pipecat**, and **Microsoft Agent Framework**
-
 <img width="16" valign="middle" src="https://api.iconify.design/tabler/brain.svg?color=%2358a6ff" /> Strong foundation in **Machine Learning**, **Deep Learning**, **CNNs**, and **LLMs**
-
 <img width="16" valign="middle" src="https://api.iconify.design/tabler/cloud.svg?color=%2358a6ff" /> Deploying on **Azure AI Foundry**, exploring **Google Cloud**
-
-<img width="16" valign="middle" src="https://api.iconify.design/tabler/telescope.svg?color=%2358a6ff" /> Long-term goal: fully autonomous intelligent systems — **AI → Computer Vision → Robotics**
-
-<img width="16" valign="middle" src="https://api.iconify.design/tabler/trophy.svg?color=%2358a6ff" /> Hackathon-first builder — competing across MLH, Devfolio, Devpost, and Unstop for real-world agentic AI projects
-
+<img width="16" valign="middle" src="https://api.iconify.design/tabler/telescope.svg?color=%2358a6ff" /> Long-term goal: fully autonomous intelligent systems — **Robotics**
 <img width="16" valign="middle" src="https://api.iconify.design/tabler/map-pin.svg?color=%2358a6ff" /> Based in Bangalore, India
 
 ---
