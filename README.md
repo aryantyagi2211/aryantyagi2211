@@ -20,11 +20,7 @@
 
 ### About Me
 
-<img width="16" valign="middle" src="https://api.iconify.design/tabler/robot.svg?color=%2358a6ff" /> Currently building multi-agent and voice-driven AI systems with **CrewAI**, **Agno**, **Pipecat**, and **Microsoft Agent Framework**
-<img width="16" valign="middle" src="https://api.iconify.design/tabler/brain.svg?color=%2358a6ff" /> Strong foundation in **Machine Learning**, **Deep Learning**, **CNNs**, and **LLMs**
-<img width="16" valign="middle" src="https://api.iconify.design/tabler/cloud.svg?color=%2358a6ff" /> Deploying on **Azure AI Foundry**, exploring **Google Cloud**
-<img width="16" valign="middle" src="https://api.iconify.design/tabler/telescope.svg?color=%2358a6ff" /> Long-term goal: fully autonomous intelligent systems — **Robotics**
-<img width="16" valign="middle" src="https://api.iconify.design/tabler/map-pin.svg?color=%2358a6ff" /> Based in Bangalore, India
+19-year-old AI engineer living in Bangalore. Building multi-agent and voice-driven AI systems with Agno, Pipecat, and Microsoft Agent Framework. Solid grip on Machine Learning, Deep Learning, CNNs, and LLMs, with hands-on experience across every major architecture and pipeline in this space. Shipping on AWS, while digging into Google Cloud. Trajectory: Data/AI Engineering (done) → Computer Vision (currently) → Robotics (next). Pursuing BCA (IGNOU) alongside an in-person AI Expert program at DataMites, while actively networking through startup communities, AI governance forums, and MCP community events.
 
 ---
 
