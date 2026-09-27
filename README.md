@@ -65,8 +65,39 @@
 
 ---
 
-Featured Projects
-<table> <tr> <td width="100%"> <h4><a href="https://github.com/aryantyagi2211/StudyMate-AI">StudyMate AI</a></h4> <p>8-agent sequential pipeline for Azure certification prep, built for the Microsoft Agents League Hackathon (Reasoning Agents track).</p> <p><code>Python</code> <code>Microsoft Agent Framework</code> <code>CrewAI</code> <code>Agno</code> <code>Azure OpenAI</code> <code>Gradio</code> <code>React</code></p> </td> </tr> <tr> <td width="100%"> <h4><a href="https://github.com/aryantyagi2211/Robotics-Command-Parser">Robotics-Command-Parser</a></h4> <p>Production-grade QLoRA fine-tuning pipeline that teaches Llama-3.2-1B to parse natural language robot commands (e.g. "pick up the red cup and place it on the table") into structured JSON actions.</p> <p><code>Python</code> <code>Docker</code> <code>Transformers</code> <code>Llama</code> <code>NLP</code> <code>Robotics</code></p> </td> </tr> <tr> <td width="100%"> <h4><a href="https://github.com/aryantyagi2211/smart-file-finder">smart-file-finder</a></h4> <p>RAG-based file search system using contextual embeddings to find files by meaning, not just filename — hackathon project.</p> <p><code>Python</code> <code>RAG</code> <code>Contextual Embeddings</code> <code>NLP</code> <code>LLMs</code></p> </td> </tr> <tr> <td width="100%"> <h4><a href="https://github.com/aryantyagi2211/Build-LLM-From-Scratch">Build-LLM-From-Scratch</a></h4> <p>GPT-style LLM built from scratch on a small dataset (device-constrained) — the full architecture, not just a straight training pipeline.</p> <p><code>Python</code> <code>Docker</code> <code>AWS</code> <code>Transformer</code> <code>Tokenization</code> <code>HuggingFace</code></p> </td> </tr> </table>
+### Featured Projects
+
+<table>
+  <tr>
+    <td width="100%">
+      <h4><a href="https://github.com/aryantyagi2211/StudyMate-AI">StudyMate AI</a></h4>
+      <p>8-agent sequential pipeline for Azure certification prep, built for the Microsoft Agents League Hackathon (Reasoning Agents track).</p>
+      <p><code>Python</code> <code>Microsoft Agent Framework</code> <code>CrewAI</code> <code>Agno</code> <code>Azure OpenAI</code> <code>Gradio</code> <code>React</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%">
+      <h4><a href="https://github.com/aryantyagi2211/Robotics-Command-Parser">Robotics-Command-Parser</a></h4>
+      <p>Production-grade QLoRA fine-tuning pipeline that teaches Llama-3.2-1B to parse natural language robot commands (e.g. "pick up the red cup and place it on the table") into structured JSON actions.</p>
+      <p><code>Python</code> <code>Docker</code> <code>Transformers</code> <code>Llama</code> <code>NLP</code> <code>Robotics</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%">
+      <h4><a href="https://github.com/aryantyagi2211/smart-file-finder">smart-file-finder</a></h4>
+      <p>RAG-based file search system using contextual embeddings to find files by meaning, not just filename — hackathon project.</p>
+      <p><code>Python</code> <code>RAG</code> <code>Contextual Embeddings</code> <code>NLP</code> <code>LLMs</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%">
+      <h4><a href="https://github.com/aryantyagi2211/Build-LLM-From-Scratch">Build-LLM-From-Scratch</a></h4>
+      <p>GPT-style LLM built from scratch on a small dataset (device-constrained) — the full architecture, not just a straight training pipeline.</p>
+      <p><code>Python</code> <code>Docker</code> <code>AWS</code> <code>Transformer</code> <code>Tokenization</code> <code>HuggingFace</code></p>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ### Featured Learning Journey
