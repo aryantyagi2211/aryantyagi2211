@@ -80,8 +80,6 @@
       <p><code>python</code> <code>transformer</code> <code>tokenization</code> <code>embeddings</code> <code>huggingface</code></p>
     </td>
   </tr>
-  <tr>
-  </tr>
 </table>
 
 ---
