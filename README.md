@@ -41,17 +41,9 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
-**Agentic AI & Voice**
-
-![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logoColor=white)
 ![Agno](https://img.shields.io/badge/Agno-4B32C3?style=for-the-badge&logoColor=white)
 ![Pipecat](https://img.shields.io/badge/Pipecat-FF6154?style=for-the-badge&logoColor=white)
 ![Microsoft Agent Framework](https://img.shields.io/badge/Microsoft%20Agent%20Framework-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-
-**Deployment**
-
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
