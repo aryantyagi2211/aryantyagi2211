@@ -74,13 +74,13 @@
       <p>Production-grade QLoRA fine-tuning pipeline that teaches Llama-3.2-1B to parse natural language robot commands into structured JSON actions.</p>
       <p><code>python</code> <code>QLoRA</code> <code>llama</code> <code>robotics</code> <code>docker</code></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h4><a href="https://github.com/aryantyagi2211/Build-LLM-From-Scratch">Build-LLM-From-Scratch</a></h4>
       <p>A GPT-style LLM built from scratch on a small dataset. Not just a pipeline, the full architecture.</p>
       <p><code>python</code> <code>transformer</code> <code>tokenization</code> <code>embeddings</code> <code>huggingface</code></p>
     </td>
+  </tr>
+  <tr>
   </tr>
 </table>
 
