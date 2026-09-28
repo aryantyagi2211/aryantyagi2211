@@ -69,10 +69,27 @@
 
 <table>
   <tr>
-    <td width="100%">
-      <h4><a href="https://github.com/aryantyagi2211/StudyMate-AI">StudyMate AI</a></h4>
-      <p>8-agent sequential pipeline for Azure certification prep, built for the Microsoft Agents League Hackathon (Reasoning Agents track).</p>
-      <p><code>Python</code> <code>Microsoft Agent Framework</code> <code>CrewAI</code> <code>Agno</code> <code>Azure OpenAI</code> <code>Gradio</code> <code>React</code></p>
+    <td width="50%">
+      <h4><a href="https://github.com/aryantyagi2211/smart-file-finder">smart-file-finder</a></h4>
+      <p>On-device, natural-language file search for Windows. Finds files and images by what's actually inside them, using only local AI models.</p>
+      <p><code>python</code> <code>computer-vision</code> <code>semantic-search</code> <code>desktop-app</code></p>
+    </td>
+    <td width="50%">
+      <h4><a href="https://github.com/aryantyagi2211/Robotics-Command-Parser">Robotics-Command-Parser</a></h4>
+      <p>Production-grade QLoRA fine-tuning pipeline that teaches Llama-3.2-1B to parse natural language robot commands into structured JSON actions.</p>
+      <p><code>python</code> <code>QLoRA</code> <code>llama</code> <code>robotics</code> <code>docker</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4><a href="https://github.com/aryantyagi2211/StudyMate-AI">StudyMate-AI</a></h4>
+      <p>Adaptive learning system that teaches step by step until mastery. It checks what the student knows, finds weak areas, and gives focused lessons.</p>
+      <p><code>python</code> <code>fastapi</code> <code>websocket</code> <code>groq</code> <code>agents</code></p>
+    </td>
+    <td width="50%">
+      <h4><a href="https://github.com/aryantyagi2211/Build-LLM-From-Scratch">Build-LLM-From-Scratch</a></h4>
+      <p>A GPT-style LLM built from scratch on a small dataset. Not just a pipeline, the full architecture.</p>
+      <p><code>python</code> <code>transformer</code> <code>tokenization</code> <code>embeddings</code> <code>huggingface</code></p>
     </td>
   </tr>
 </table>
