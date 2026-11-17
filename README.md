@@ -62,14 +62,14 @@
 <table>
   <tr>
     <td width="50%">
-      <h4><a href="https://github.com/aryantyagi2211/Robotics-Command-Parser">Robotics-Command-Parser</a></h4>
-      <p>Production-grade QLoRA fine-tuning pipeline that teaches Llama-3.2-1B to parse natural language robot commands into structured JSON actions.</p>
-      <p><code>python</code> <code>QLoRA</code> <code>llama</code> <code>robotics</code> <code>docker</code></p>
+      <h4><a href="https://github.com/aryantyagi2211/smart-file-finder">smart-file-finder</a></h4>
+      <p>On-device, natural-language file search for Windows — finds files and images by what's actually inside them, using only local AI models.</p>
+      <p><code>python</code> <code>windows</code> <code>Information-retrieval</code> <code>Computer-vision</code> <code>desktop-app</code></p>
     </td>
     <td width="50%">
-      <h4><a href="https://github.com/aryantyagi2211/Build-LLM-From-Scratch">Build-LLM-From-Scratch</a></h4>
-      <p>A GPT-style LLM built from scratch on a small dataset. Not just a pipeline, the full architecture.</p>
-      <p><code>python</code> <code>transformer</code> <code>tokenization</code> <code>embeddings</code> <code>huggingface</code></p>
+      <h4><a href="https://github.com/aryantyagi2211/oncall-memory">oncall-memory</a></h4>
+      <p>AI agent that remembers resolved incidents using Hindsight memory.</p>
+      <p><code>python</code> <code>ai-agents</code> <code>agent-memory</code> <code>devops</code> <code>streamlit</code></p>
     </td>
   </tr>
 </table>
